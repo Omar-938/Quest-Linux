@@ -1,0 +1,130 @@
+  213  cd
+  214  ls
+  215  cd "OneDrive - SNCF"/
+  216  ls
+  217  cd 'wild code school'/
+  218  ls
+  219  cd linux/
+  220  ls
+  221  cd quest/
+  222  ls
+  223  mkdir quest3
+  224  ls
+  225  cd quest3/
+  226  ls
+  227  pwd
+  228  wget https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  229  curl -L -O https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  230  ls
+  231  ls
+  232  touch php_france_2019.csv
+  233  ls
+  234  rm php_france_2019.csv 
+  235  ls
+  236  cat wilders.csv 
+  237  ls
+  238  more wilders.csv 
+  239  sort wilders.csv 
+  240  grep php wilders.csv 
+  241  grep PHP wilders.csv 
+  242  grep 2019 PHP
+  243  grep 2019,PHP wilders.csv 
+  244  grep 2019,PHP wilders.csv > php_france_2019.csv
+  245  ls
+  246  grep Javascript wilders.csv 
+  247  cat wilders.csv 
+  248  grep JavaScript wilders.csv 
+  249  grep JavaScript,Toulouse,Biarritz wilders.csv 
+  250  grep JavaScript,Toulouse wilders.csv 
+  251  grep JavaScript, Toulouse wilders.csv 
+  252  grep JavaScript wilders.csv 
+  253  grep  wilders.csv < Toulouse_java.csv
+  254  ls
+  255  ls
+  256  ls
+  257  grep JavaScript wilders.csv 
+  258  ls
+  259  grep JavaScript wilders.csv < 
+  260  grep JavaScript wilders.csv < Java.csv
+  261  grep Toulouse
+  262  ls
+  263  cd 'OneDrive - SNCF'/
+  264  l
+  265  ls
+  266  cd 'wild code school'/
+  267  ls
+  268  cd linux/
+  269  ls
+  270  cd quest/
+  271  ls
+  272  cd quest3/
+  273  ls
+  274  grep toulouse wilders.csv 
+  275  grep Toulouse wilders.csv 
+  276  grep Toulouse wilders.csv > mec_Toulouse.csv
+  277  ls
+  278  grep JavaScript mec_Toulouse.csv 
+  279  grep JavaScript mec_Toulouse.csv > javascript_biarritz_toulouse.csv
+  280  ls
+  281  rm mec_Toulouse.csv 
+  282  ls
+  283  grep Biarritz wilders.csv 
+  284  grep Biarritz wilders.csv > mec_biarritz.csv
+  285  ls
+  286  grep JavaScript mec_biarritz.csv 
+  287  grep JavaScript mec_biarritz.csv > javascript_biarritz_toulouse.csv
+  288  ls
+  289  rm mec_biarritz.csv 
+  290  ls
+  291  ls
+  292  cat php_france_2019.csv 
+  293  grep France php_france_2019.csv 
+  294  grep France php_france_2019.csv > php_France_2019.cvs
+  295  ls
+  296  rm php_france_2019.csv
+  297  ls
+  298  history
+  299  tail
+  300  history 
+  301  history tail 100
+  302  history tail -n 100
+  303  history tail
+  304  history tail -n
+  305  history tail 10
+  306  history > history.txt
+  307  ls
+  308  rm history.txt 
+  309  ls
+  310  cd 'OneDrive - SNCF'/
+  311  ls
+  312  cd 'wild code school'/
+  313  ls
+  314  cd linux/
+  315  ls
+  316  cd quest/
+  317  ls
+  318  cd quest3/
+  319  ls
+  320  history > history.txt
+  321  ls
+  322  tail history.txt 
+  323  tail 150 history.txt 
+  324  tail -n 150 history.txt 
+  325  tail -n 120 history.txt 
+  326  tail -n 125 history.txt 
+  327  tail -n 135 history.txt 
+  328  tail -n 100 history.txt 
+  329  tail -n 100 history.txt > History.txt
+  330  ls
+  331  ls
+  332  tail -n 100 history.txt > History.txt
+  333  ls
+  334  nano history.txt 
+  335  cat history.txt 
+  336  rm history.txt 
+  337  history tail -n 110
+  338  tail -n 100 history.txt 
+  339  tail -n 100 history
+  340  history
+  341  tail history
+  342  history > history.txt
